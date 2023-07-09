@@ -1,0 +1,4 @@
+discord.py
+asyncio
+youtube-dl
+google-api-python-client
